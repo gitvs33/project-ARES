@@ -1,0 +1,9 @@
+total 1980
+drwxr-xr-x 1 vishnus vishnus      94 Mar  3 13:34 .
+drwx------ 1 vishnus vishnus    1216 Mar  3 13:25 ..
+-rw-r--r-- 1 vishnus vishnus 2014720 Mar  3 12:58 ares.ipynb
+drwxr-xr-x 1 vishnus vishnus      12 Mar  3 13:20 docs
+drwxr-xr-x 1 vishnus vishnus     128 Mar  3 13:34 .git
+-rw-r--r-- 1 vishnus vishnus      30 Mar  3 13:19 .gitignore
+-rw-r--r-- 1 vishnus vishnus       0 Mar  3 13:34 output.txt
+-rw-r--r-- 1 vishnus vishnus    2310 Mar  3 13:24 README.md

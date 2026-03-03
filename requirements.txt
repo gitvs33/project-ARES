@@ -1,0 +1,6 @@
+torch
+torchvision
+segmentation-models-pytorch
+python-telegram-bot
+numpy
+opencv-python-headless
